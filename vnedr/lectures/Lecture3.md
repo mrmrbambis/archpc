@@ -1,13 +1,8 @@
-| Параметр                      | Значение                                      |
-| ----------------------------- | --------------------------------------------- |
-| Имя процессора                 | Intel(R) Core(TM) i5-2500 CPU @ 3.30GHz      |
-| Версия BIOS                   | HPQOEM - 1072009                             |
-| Имя компьютера                 | SP-3-302-00082                               |
-| Объем ОЗУ                     | 8192MB                                       |
-| Объем жесткого диска          | 223.6GB                                       |
-| Операционная система          | Microsoft Windows 10 Enterprise 2015 LTSB     |
-| Разрядность ОС                | 64                                            |
-|                               |                                               |
-| Определите сетевой адаптер.   | Intel(R) 82579LM Gigabit Network Connection   |
-| Видеоадаптер                  | Intel(R) HD Graphics                          |
-| Возраст пароля пользователя   | 0 Дней                                         |
+| Test Name                      | Cycle  | Operations | Errors | Last error descriptions |
+| ----------------------------- | ------- | -------------|---|----------------------------|
+| CPU Temp                      | 2      | 2.297 trillion| 0 | No Errors                  |
+| CPU Coverage                 | 10      |494 billion    | 0| No Errors                   |
+| RAM                          | 5     | 49.644 Billion | 0 | No Errors                   |
+| 2D                           | 0     | 6036Million| 0 |No Errors                           |
+| 3D                           | 2742  | 82.265million   | 0| No errors                      |
+| LocalDisk                    |  3     | 18.323Billion | 0 | No Errors                   |
