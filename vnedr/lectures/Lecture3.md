@@ -36,13 +36,3 @@
 
 
 
-# Лабораторная работа
-
-| Test Name                      | Cycle  | Operations | Errors | Last error descriptions |
-| ----------------------------- | ------- | -------------|---|----------------------------|
-| CPU Temp                      | 2      | 2.297 trillion| 0 | No Errors                  |
-| CPU Coverage                 | 10      |494 billion    | 0| No Errors                   |
-| RAM                          | 5     | 49.644 Billion | 0 | No Errors                   |
-| 2D                           | 0     | 6036Million| 0 |No Errors                           |
-| 3D                           | 2742  | 82.265million   | 0| No errors                      |
-| LocalDisk                    |  3     | 18.323Billion | 0 | No Errors                   |

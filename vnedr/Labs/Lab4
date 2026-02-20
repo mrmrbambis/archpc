@@ -1,0 +1,11 @@
+# Лабораторная работа
+		
+|Название тестирования          |Наименование оборудования для теста|Результат в баллах|                                  
+| ----------------------------- | ----------------------------------|------------------|
+|CPU                            | Тест процессора                   |1104              |
+|ОЗУ                            | ТестRAM                           |42633             |
+|CPU                            | Многопотоковый тест               |2947              |
+|Видео                          | DirectX 3D                        |Texture:2116 FPS Texture (Fullscreen):189 FPS Particles3D:16 FPS Vertex:54 FPS Billboard:920 FPS|
+|Видео                          | Video Benchmark                   |59517             |
+|жётский диск                   | C:                                |Sequential Write :	163.3  Ìá/s (Cpu usage : 0%) Sequential Read :	57.61  Ìá/s  (Cpu usage : 33%)|
+|вид                            | Windows performance setting       |5.9 on 7.9 :      |
