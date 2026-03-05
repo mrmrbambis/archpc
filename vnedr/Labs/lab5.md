@@ -1,18 +1,25 @@
-Модель монитора  VA2410-FHD
-разрешение 1920x1080
-соотношение сторон 16:9
-разъем подключения
-размер экрана в дюймах 23.8
-число отображаемых цветов standart dynamic range
-плотность пикселей 92ppi
+1 Модель монитора  VA2410-FHD
+2 разрешение 1920x1080
+3 соотношение сторон 16:9
+4 разъем подключения
+5 размер экрана в дюймах 23.8
+6 число отображаемых цветов standart dynamic range
+7 плотность пикселей 92ppi
 
 
 
 Яркость света Red 
+<img width="1920" height="1080" alt="Снимок экрана (2)" src="https://github.com/user-attachments/assets/820359f1-94ef-41a1-a4b4-affbae6bb9a1" />
 
 Яркость света Green
+<img width="1920" height="1080" alt="Снимок экрана (1)" src="https://github.com/user-attachments/assets/475692c9-b4af-4d85-b9d8-bc82c3d5c37c" />
+
 Яркость света Blue
+<img width="1920" height="1080" alt="Снимок экрана (3)" src="https://github.com/user-attachments/assets/dd029405-b27a-4958-bd85-457b45cadeba" />
+
 Яркость света White
+<img width="1920" height="1080" alt="Снимок экрана (4)" src="https://github.com/user-attachments/assets/4ae5a268-100b-4013-a518-ae4e430e7344" />
+
 Gamma 0,89|
 Gamma 0,95|
 Gamma 1,01|
