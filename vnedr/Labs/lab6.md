@@ -10,12 +10,19 @@
 
 
 
-| Название теста | AIDA64 | PerformanceTest |
-|----------------|--------|-----------------|
-| Чтение из памяти / Memory read uncached | | |
-| Задержка памяти / Memory Latency | | |
-| CPU AES / Encryption | | |
-| Integer Math / CPU PhotoWorxx | | |
+
+
+
+| Название теста | AIDA64 | PerformanceTest               |
+|----------------|--------|-------------------------------|
+| Чтение из памяти / Memory read uncached | 20463 | 20548 |
+| Задержка памяти / Memory Latency        |  26   | 27    |
+| CPU AES / Encryption                    |565    | 597   |
+| Integer Math / CPU PhotoWorxx           |456    |275    |
+
+
+
+
 
 
 
